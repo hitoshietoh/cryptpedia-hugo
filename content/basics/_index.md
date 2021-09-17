@@ -9,7 +9,7 @@ weight = 1
 
 ## 便利リスト
 
-- [用語集](/words/index.html)  
+- [用語集](/basics/words/index.html)  
 仮想通貨関連の用語集
 
 - [Farm Army](https://farm.army/farm-pools)  
@@ -28,5 +28,5 @@ DEXのTVLが見れる
 
 ## その他
 
-- [事件まとめ](/incident/index.html)
+- [事件まとめ](/basics/incident/index.html)
 

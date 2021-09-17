@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'ja-jp'
-title = 'My New Hugo Site'
+title = '初心者がつくる仮想通貨まとめ'
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
 
@@ -34,6 +34,8 @@ home = [ "HTML", "RSS", "JSON"]
   disableShortcutsTitle = false
   # If set to false, a Home button will appear below the search bar on the menu.
   # It is redirecting to the landing page of the current language if specified. (Default is "/")
+  landingPageURL = "/"
+  landingPageName = "<i class='fas fa-home'></i> Home"
   disableLandingPageButton = true
   # When using mulitlingual website, disable the switch language button.
   disableLanguageSwitchingButton = false
