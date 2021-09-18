@@ -7,8 +7,13 @@ weight = 20
 
 # Solana
 
+## 概要
+ブロックチェーンの一種、solanaチェーン。txが早いのが特徴。  
+ガバナンストークンはSOL  
+昨今はNFTで盛り上がっている
+
 ## プロジェクト
-- [BNB](/solana/raydium/)
+- [Raydium](/solana/raydium/)
 
 ## ウォレット
 

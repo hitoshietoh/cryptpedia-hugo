@@ -8,6 +8,13 @@ draft: false
 AMMモデルを採択したDEX  
 ネイティブトークンはCAKE  
 
+## 利用方法
+オーソドックスな利用方法はMetamsakを使用してcakeをステーキングする（APY約9%）
+1. 初心者の方はまずはMetamaskを作成
+1. Metamaskにcakeを送金（私はbinanceで買って送りました。）
+1. Metamaskのブラウザからpancakeを検索してwalletを接続
+1. 保有しているcakeをAutoステーキング
+
 ## 資料
 - [オフィシャル](https://pancakeswap.finance)
 - [Twiter](https://twitter.com/pancakeswap)
