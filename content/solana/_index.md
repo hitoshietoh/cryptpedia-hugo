@@ -8,12 +8,24 @@ weight = 20
 # Solana
 
 ## 概要
-ブロックチェーンの一種、solanaチェーン。txが早いのが特徴。  
+ブロックチェーンの一種、solanaチェーン。秒間5万txと処理が早いのが特徴。  
 ガバナンストークンはSOL  
 昨今はNFTで盛り上がっている
 
+タイトル |内容
+---|---
+通貨|SOL
+アルゴリズム|Proof of History
+上限|なし
+twitter | https://twitter.com/SolanaJapan
+Medium | https://medium.com/@solanajapan
+取引所|FTX,Binace,Serum,Raydiumなど
+
 ## プロジェクト
 - [Raydium](/solana/raydium/)
+- [serum](/solana/serum/)
+- [bonfida](/solana/bonfida/)
+- [mango](/solana/mango/)
 
 ## ウォレット
 
