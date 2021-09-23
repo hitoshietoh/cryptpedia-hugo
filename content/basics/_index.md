@@ -25,6 +25,8 @@ DEXのTVLが見れる
 価格帯でのポジションの含み益・含み損の可視化サイト  
 [見方はこちら](https://bitcoin-talk.info/kusopoji-checker/)
 
+- [solana beach](https://solanabeach.io/)  
+solanaのトランザクションが見れる
 
 ## その他
 
