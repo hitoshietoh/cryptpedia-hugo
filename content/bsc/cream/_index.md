@@ -7,6 +7,8 @@ draft: false
 DeFiのレンディングプロトコル
 Compoundのfolk
 
+{{< tradingview CREAMUSD FTX >}}
+
 ## 資料
 - [オフィシャル](https://app.cream.finance)
 - [Twitter](https://twitter.com/creamdotfinance)

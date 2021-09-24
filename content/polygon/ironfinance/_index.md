@@ -5,6 +5,8 @@ draft: false
 ---
 ## 概要
 
+{{< tradingview ICEUSD bitfinex >}}
+
 ## 資料
 
 - [オフィシャル](https://iron.finance)

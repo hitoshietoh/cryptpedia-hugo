@@ -17,6 +17,8 @@ weight =10
 システム| Proof of Stake
 上限| なし
 
+{{< tradingview ETHUSD FTX >}}
+
 ## プロジェクト
 - [uniswap](/eth/uniswap/)
 - [curve](/eth/curve/)

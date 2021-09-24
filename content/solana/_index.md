@@ -21,6 +21,9 @@ twitter | https://twitter.com/SolanaJapan
 Medium | https://medium.com/@solanajapan
 取引所|FTX,Binace,Serum,Raydiumなど
 
+
+{{< tradingview SOLUSD binanceUS >}}
+
 ## プロジェクト
 - [Raydium](/solana/raydium/)
 - [serum](/solana/serum/)

@@ -7,3 +7,4 @@ weight = 30
 
 # Terra
 
+{{< tradingview LUNAUSD bitfinex >}}

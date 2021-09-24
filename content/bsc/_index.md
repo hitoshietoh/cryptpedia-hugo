@@ -12,6 +12,8 @@ weight = 15
 主要チェーンの一つ、ガス代がETHよりも安いので人気に。
 [Pancakeswap](https://pancakeswap.finance)のDEXが人気
 
+{{< tradingview BNBUSD binanceUS >}}
+
 ## プロジェクト
 - [BNB](/bsc/bnb/)
 - [Pancakeswap](/bsc/curve/)

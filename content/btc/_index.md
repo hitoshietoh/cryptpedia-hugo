@@ -14,3 +14,5 @@ weight = 5
 システム|Proof of work
 上限|2,100万BTC
 ハッシュアルゴリズム|SHA256
+
+{{< tradingview BTCUSD FTX >}}

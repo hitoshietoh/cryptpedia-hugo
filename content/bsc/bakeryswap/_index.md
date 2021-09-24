@@ -10,6 +10,8 @@ NFT系のDEXという感じ。
 特徴はNFTスーパーマーケット、ローンチパッドがある。  
 2021年8月21日に排出終了している計算になる[らしい。](https://bakeryswap.net/bake-onomics-emissions/)
 
+{{< tradingview BAKEUSD binance >}}
+
 ## 資料
 - [オフィシャル](https://www.bakeryswap.org/#/home)
 - [medium](https://bakeryswap.medium.com)

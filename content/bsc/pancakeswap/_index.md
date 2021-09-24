@@ -8,6 +8,8 @@ draft: false
 AMMモデルを採択したDEX  
 ネイティブトークンはCAKE  
 
+{{< tradingview CAKEUSD binance >}}
+
 ## 利用方法
 オーソドックスな利用方法はMetamsakを使用してcakeをステーキングする（APY約9%）
 1. 初心者の方はまずはMetamaskを作成
