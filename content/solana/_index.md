@@ -24,6 +24,10 @@ Medium | https://medium.com/@solanajapan
 
 {{< tradingview SOLUSD binanceUS >}}
 
+## 取扱取引所
+[FTX](https://ftx.com/#a=34339172)  
+[binance (SOL/BNB)](https://accounts.binance.com/ja/register?ref=25096395)
+
 ## プロジェクト
 - [Raydium](/solana/raydium/)
 - [serum](/solana/serum/)

@@ -7,6 +7,13 @@ weight = 1
 
 # 総合
 
+## 主要取引所リスト
+
+- [Coincheck](https://coincheck.com/ja/)  
+- [bitflayer](https://bitflyer.com/invitation?id=rrgtz1r1&lang=ja-JP)  
+- [FTX](https://ftx.com/#a=34339172)  
+- [binance](https://accounts.binance.com/ja/register?ref=25096395)
+
 ## 便利リスト
 
 - [用語集](/basics/words/index.html)  

@@ -9,6 +9,11 @@ Compoundのfolk
 
 {{< tradingview CREAMUSD FTX >}}
 
+## 取扱取引所
+
+- [FTX](https://ftx.com/#a=34339172)  
+- [binance](https://accounts.binance.com/ja/register?ref=25096395)
+
 ## 資料
 - [オフィシャル](https://app.cream.finance)
 - [Twitter](https://twitter.com/creamdotfinance)

@@ -7,6 +7,10 @@ draft: false
 
 {{< tradingview RAYUSD FTX >}}
 
+## 取扱取引所
+
+- [FTX](https://ftx.com/#a=34339172)  
+
 
 ## 資料
 - [オフィシャル](https://raydium.io)

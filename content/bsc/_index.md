@@ -14,6 +14,11 @@ weight = 15
 
 {{< tradingview BNBUSD binanceUS >}}
 
+## 取扱取引所
+
+- [FTX](https://ftx.com/#a=34339172)  
+- [binance](https://accounts.binance.com/ja/register?ref=25096395)
+
 ## プロジェクト
 - [BNB](/bsc/bnb/)
 - [Pancakeswap](/bsc/curve/)

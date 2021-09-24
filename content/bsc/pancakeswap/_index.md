@@ -10,6 +10,10 @@ AMMモデルを採択したDEX
 
 {{< tradingview CAKEUSD binance >}}
 
+## 取扱取引所
+
+- [binance](https://accounts.binance.com/ja/register?ref=25096395)
+
 ## 利用方法
 オーソドックスな利用方法はMetamsakを使用してcakeをステーキングする（APY約9%）
 1. 初心者の方はまずはMetamaskを作成

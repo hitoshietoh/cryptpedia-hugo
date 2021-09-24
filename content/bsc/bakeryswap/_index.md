@@ -12,6 +12,10 @@ NFT系のDEXという感じ。
 
 {{< tradingview BAKEUSD binance >}}
 
+## 取扱取引所
+
+- [binance](https://accounts.binance.com/ja/register?ref=25096395)
+
 ## 資料
 - [オフィシャル](https://www.bakeryswap.org/#/home)
 - [medium](https://bakeryswap.medium.com)
