@@ -15,7 +15,7 @@ AMMモデルを採択したDEX
 - [binance](https://accounts.binance.com/ja/register?ref=25096395)
 
 ## 利用方法
-オーソドックスな利用方法はMetamsakを使用してcakeをステーキングする（APY約9%）
+オーソドックスな利用方法はMetamsakを使用してcakeをステーキングする（APY約90%）
 1. 初心者の方はまずはMetamaskを作成
 1. Metamaskにcakeを送金（私はbinanceで買って送りました。）
 1. Metamaskのブラウザからpancakeを検索してwalletを接続
