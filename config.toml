@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cryptpedia.wiki'
 languageCode = 'ja-jp'
 title = '初心者がつくる仮想通貨まとめ'
 # Change the default theme to be use when building the site with Hugo
