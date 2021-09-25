@@ -36,7 +36,7 @@ home = [ "HTML", "RSS", "JSON"]
   # It is redirecting to the landing page of the current language if specified. (Default is "/")
   landingPageURL = "/"
   landingPageName = "<i class='fas fa-home'></i> Home"
-  disableLandingPageButton = true
+  disableLandingPageButton = false
   # When using mulitlingual website, disable the switch language button.
   disableLanguageSwitchingButton = false
   # Hide breadcrumbs in the header and only show the current page title
