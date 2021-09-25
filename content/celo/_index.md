@@ -26,7 +26,7 @@ Medium | https://medium.com/celoorg
 [binance](https://accounts.binance.com/ja/register?ref=25096395)
 
 ## プロジェクト
-- [UbeSwap](/celo/UbeSwap/)
+- [UbeSwap](/celo/ubeswap/)
 - [Moola](/celo/Moola/)
 
 ## ウォレット
