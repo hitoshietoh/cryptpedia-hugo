@@ -1,6 +1,6 @@
 baseURL = 'https://cryptpedia.wiki'
 languageCode = 'ja-jp'
-title = '初心者がつくる仮想通貨まとめ'
+title = '仮想通貨初心者のための仮想通貨を雰囲気でふわっと把握するためのサイト'
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
 
@@ -16,7 +16,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Author of the site, will be used in meta information
   author = ""
   # Description of the site, will be used in meta information
-  description = "初心者による仮想通貨まとめサイトです。"
+  description = "仮想通貨初心者のための仮想通貨を雰囲気でふわっと把握するためのサイトです。"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar
