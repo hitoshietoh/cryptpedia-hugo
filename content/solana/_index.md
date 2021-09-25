@@ -43,3 +43,17 @@ Medium | https://medium.com/@solanajapan
 ### アプリ
 - [safepal](https://safepal.io)
 
+## NFT
+
+### マーケット
+- [Solanart](https://solanart.io/)
+- [Digitaleyes](https://digitaleyes.market/)
+- [Solsea](https://solsea.io/explore)
+
+### 人気NFT
+
+- [DEGENERATE APE ACADEMY](https://www.degenape.academy/)
+- [AURORY](https://app.aurory.io/#/)
+- [SOLPUNKS](https://solpunks.com/)
+- [Sollamas](https://sollamas.com/)
+- [THUGBIRDZ](https://www.thugbirdz.com/)
