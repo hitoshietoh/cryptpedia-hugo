@@ -33,3 +33,14 @@ table {
 ul {
   font-size: 1.2rem;
 }
+
+.boxContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width:100%;
+}
+.item- {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 400px;
+}

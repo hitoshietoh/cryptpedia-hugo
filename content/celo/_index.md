@@ -27,7 +27,8 @@ Medium | https://medium.com/celoorg
 
 ## プロジェクト
 - [UbeSwap](/celo/ubeswap/)
-- [Moola](/celo/Moola/)
+- [Moola](/celo/moola/)
+- [Mobius](/celo/mobius/)
 
 ## ウォレット
 

@@ -21,7 +21,7 @@ weight = 15
 
 ## プロジェクト
 - [BNB](/bsc/bnb/)
-- [Pancakeswap](/bsc/curve/)
+- [Pancakeswap](/bsc/pancakeswap/)
 - [Cream](/bsc/cream/)
 
 ## ウォレット
