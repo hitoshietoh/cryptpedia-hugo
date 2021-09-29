@@ -22,6 +22,7 @@ weight =10
 ## 取扱取引所
 
 - [Coincheck](https://coincheck.com/ja/)  
+- {{< huobi >}}
 - [FTX](https://ftx.com/#a=34339172)  
 - [binance](https://accounts.binance.com/ja/register?ref=25096395)
 

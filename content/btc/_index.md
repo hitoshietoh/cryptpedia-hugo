@@ -24,5 +24,5 @@ GOLDの機能を見たしているのでデジタルゴールドと呼ぶ人も�
 
 - [Coincheck](https://coincheck.com/ja/)  
 - [bitflayer](https://bitflyer.com/invitation?id=rrgtz1r1&lang=ja-JP)  
-- [FTX](https://ftx.com/#a=34339172)  
+- {{< huobi >}}
 - [binance](https://accounts.binance.com/ja/register?ref=25096395)
