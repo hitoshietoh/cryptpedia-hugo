@@ -50,6 +50,10 @@ Medium | https://medium.com/@solanajapan
 - [Digitaleyes](https://digitaleyes.market/)
 - [Solsea](https://solsea.io/explore)
 
+### 便利ツール
+- [moon rank](https://moonrank.app)
+レアリティのチェックが出来る
+
 ### 人気NFT
 
 - [DEGENERATE APE ACADEMY](https://www.degenape.academy/)
