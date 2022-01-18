@@ -16,6 +16,9 @@ IBCという規格で通信が行われている。
 - [terrastation](https://station.terra.money/wallet)
 - [keplr](https://www.keplr.app/)
 
+## 時価総額
+
+
 ## IBC対応チェーン
 IBC対応チェーンの一覧です。 
 今後概要などを拡充していければと思います。
@@ -23,15 +26,19 @@ IBC対応チェーンの一覧です。
 - [official](https://www.terra.money/)
 - [Twitter](https://twitter.com/terra_money)
 
+{{< tradingview LUNAUSDT KUCOIN 1 >}}
+
 ### Osmosis
 AMM & DEX
 - [official](https://app.osmosis.zone/)
 - [Twitter](https://twitter.com/osmosiszone)
+{{< tradingview OSMOUSDT COINEX 5 >}}
 
 ### Cronos
 EVMサポート
 - [official](https://cronos.crypto.org/)
 - [Twitter](https://twitter.com/cronos_chain)
+{{< tradingview CRONUSDT BITTREX 10 >}}
 
 ### Microtick
 short time options
@@ -47,6 +54,8 @@ meme coin
 - [official](https://cosmos.network/)
 - [Twitter](https://twitter.com/cosmos)
 
+{{< tradingview ATOMUSDT BINANCE 25 >}}
+
 ### LikeCoin
 - [official]()
 - [Twitter]()
@@ -61,20 +70,25 @@ Global Web of Decentralized Virtual Private Networks built on a P2P bandwidth sh
 - [official](https://t.me/sentinel_co)
 - [Twitter](https://twitter.com/Sentinel_co)
 
+{{< tradingview DVPNUSDT KUCOIN 40 >}}
+
 ### Secret
 The first blockchain with smart contracts w/ data privacy by default, live on mainnet! Programmable privacy for DeFi, NFTs, more.
 - [official](https://scrt.network/)
 - [Twitter](https://twitter.com/SecretNetwork)
+{{< tradingview SCRTUSD BINANCE 45 >}}
 
 ### Akash
 the world’s first decentralized and open cloud | A distributed peer-to-peer marketplace for cloud compute
 - [official](https://akash.network/)
 - [Twitter](https://twitter.com/akashnet_)
+{{< tradingview AKTUSDT BITTREX 50 >}}
 
 ### Sifchain
 Omni-chain DEX, inspired by Thorchain and built on Cosmos.
 - [official](https://sifchain.finance/)
 - [Twitter](https://twitter.com/sifchain)
+{{< tradingview EROWANUSDT SUSHISWAP 55 >}}
 
 ### Stargaze
 A community-owned Interchain NFT marketplace. 
@@ -86,6 +100,7 @@ Security-oriented blockchain that enables provable trust for all
 aka certik chain
 - [official](https://www.shentu.technology/)
 - [Twitter](https://twitter.com/ShentuChain)
+{{< tradingview CTKUSDT BINANCE 60 >}}
 
 ### MediBloc
 Personal Healthcare Information Ecosystem, built on blockchain
@@ -96,6 +111,7 @@ Personal Healthcare Information Ecosystem, built on blockchain
 Protocol Enabling Exposure To Multiple Asset Classes.
 - [official](https://persistence.one/)
 - [Twitter](https://twitter.com/PersistenceOne)
+{{< tradingview XPRTUSDT HUOBI 65 >}}
 
 ### Bostrom
 - [official]
@@ -105,6 +121,7 @@ Protocol Enabling Exposure To Multiple Asset Classes.
 Interchain Service Hub for new-gen #DApps. IRIS Hub enables cross-chain interoperability while providing modules to support distributed business systems.
 - [official](https://www.irisnet.org/)
 - [Twitter](https://twitter.com/irisnetwork)
+{{< tradingview IRISUSDT BINANCE 70 >}}
 
 ### Comdex
 Synthetic assets protocol 
@@ -116,6 +133,7 @@ enriching the artist and fan relationship.
 Artists, Fans, Managers and Labels in one single holistic ecosystem
 - [official](https://bitsong.io/)
 - [Twitter](https://twitter.com/BitSongOfficial)
+{{< tradingview BTSGWETH UNISWAP 75 >}}
 
 ### Starname
 - [official](https://www.starname.me/)
@@ -151,3 +169,4 @@ Swap $BCNA decentralized on Osmosis
 The custom interoperable layer-1 for building powerful #Web3 apps
 - [official](https://injectiveprotocol.com/)
 - [Twitter](https://twitter.com/InjectiveLabs)
+
